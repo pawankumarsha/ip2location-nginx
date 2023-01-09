@@ -1,0 +1,28 @@
+!_TAG_FILE_FORMAT	2	/extended format; --format=1 will not append ;" to lines/
+!_TAG_FILE_SORTED	1	/0=unsorted, 1=sorted, 2=foldcase/
+!_TAG_PROGRAM_AUTHOR	Darren Hiebert	/dhiebert@users.sourceforge.net/
+!_TAG_PROGRAM_NAME	Exuberant Ctags	//
+!_TAG_PROGRAM_URL	http://ctags.sourceforge.net	/official site/
+!_TAG_PROGRAM_VERSION	5.9~svn20110310	//
+data	ngx_http_ip2location_module.c	/^	uintptr_t	data;$/;"	m	struct:__anon2	file:
+handler	ngx_http_ip2location_module.c	/^	IP2Location			*handler;$/;"	m	struct:__anon1	file:
+ip2location_bin_handler	ngx_http_ip2location_module.c	/^static IP2Location *ip2location_bin_handler;$/;"	v	file:
+name	ngx_http_ip2location_module.c	/^	ngx_str_t	*name;$/;"	m	struct:__anon2	file:
+ngx_http_ip2location_add_variables	ngx_http_ip2location_module.c	/^ngx_http_ip2location_add_variables(ngx_conf_t *cf)$/;"	f	file:
+ngx_http_ip2location_cidr_value	ngx_http_ip2location_module.c	/^ngx_http_ip2location_cidr_value(ngx_conf_t *cf, ngx_str_t *net, ngx_cidr_t *cidr)$/;"	f	file:
+ngx_http_ip2location_cleanup	ngx_http_ip2location_module.c	/^ngx_http_ip2location_cleanup(void *data)$/;"	f	file:
+ngx_http_ip2location_commands	ngx_http_ip2location_module.c	/^static ngx_command_t ngx_http_ip2location_commands[] = {$/;"	v	file:
+ngx_http_ip2location_conf_t	ngx_http_ip2location_module.c	/^} ngx_http_ip2location_conf_t;$/;"	t	typeref:struct:__anon1	file:
+ngx_http_ip2location_create_conf	ngx_http_ip2location_module.c	/^ngx_http_ip2location_create_conf(ngx_conf_t *cf)$/;"	f	file:
+ngx_http_ip2location_database	ngx_http_ip2location_module.c	/^ngx_http_ip2location_database(ngx_conf_t *cf, ngx_command_t *cmd, void *conf)$/;"	f	file:
+ngx_http_ip2location_get_float_value	ngx_http_ip2location_module.c	/^ngx_http_ip2location_get_float_value(ngx_http_request_t *r, ngx_http_variable_value_t *v, uintptr_t data)$/;"	f	file:
+ngx_http_ip2location_get_records	ngx_http_ip2location_module.c	/^ngx_http_ip2location_get_records(ngx_http_request_t *r)$/;"	f	file:
+ngx_http_ip2location_get_str_value	ngx_http_ip2location_module.c	/^ngx_http_ip2location_get_str_value(ngx_http_request_t *r, ngx_http_variable_value_t *v, uintptr_t data)$/;"	f	file:
+ngx_http_ip2location_init_conf	ngx_http_ip2location_module.c	/^ngx_http_ip2location_init_conf(ngx_conf_t *cf, void *conf)$/;"	f	file:
+ngx_http_ip2location_module	ngx_http_ip2location_module.c	/^ngx_module_t ngx_http_ip2location_module = {$/;"	v
+ngx_http_ip2location_module_ctx	ngx_http_ip2location_module.c	/^static ngx_http_module_t ngx_http_ip2location_module_ctx = {$/;"	v	file:
+ngx_http_ip2location_proxy	ngx_http_ip2location_module.c	/^ngx_http_ip2location_proxy(ngx_conf_t *cf, ngx_command_t *cmd, void *conf)$/;"	f	file:
+ngx_http_ip2location_var_t	ngx_http_ip2location_module.c	/^} ngx_http_ip2location_var_t;$/;"	t	typeref:struct:__anon2	file:
+ngx_http_ip2location_vars	ngx_http_ip2location_module.c	/^ngx_http_ip2location_vars[] = {$/;"	v	file:
+proxies	ngx_http_ip2location_module.c	/^	ngx_array_t			*proxies;$/;"	m	struct:__anon1	file:
+proxy_recursive	ngx_http_ip2location_module.c	/^	ngx_flag_t			proxy_recursive;$/;"	m	struct:__anon1	file:
